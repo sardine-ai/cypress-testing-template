@@ -1,0 +1,17 @@
+{
+  "name": "cypress-testing-for-recruit",
+  "version": "1.0.0",
+  "description": "This is a cypress project for recruitment.",
+  "private": "true",
+  "type": "module",
+  "author": "Sardine",
+  "scripts": {
+    "cypress:open": "scripts/run.sh open",
+    "cypress:run": "scripts/run.sh run"
+  },
+  "devDependencies": {
+    "cypress": "^9.3.1",
+    "cypress-xpath": "^1.6.2",
+    "typescript": "^4.5.4"
+  }
+}
