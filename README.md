@@ -1,6 +1,6 @@
-# cypress-testing-for-recruit
+# cypress-testing-for-interview
 
-This is a cypress project for recruitment.
+This is a cypress project for interview.
 
 # Set up
 
