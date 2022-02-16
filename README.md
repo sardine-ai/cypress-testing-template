@@ -1,6 +1,6 @@
-# cypress-testing-for-interview
+# cypress-testing-template
 
-This is a cypress project for interview.
+This is a cypress project.
 
 # Set up
 
