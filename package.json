@@ -1,7 +1,7 @@
 {
-  "name": "cypress-testing-for-interview",
+  "name": "cypress-testing-template",
   "version": "1.0.0",
-  "description": "This is a cypress project for interview.",
+  "description": "This is a cypress project.",
   "private": "true",
   "type": "module",
   "author": "Sardine",
