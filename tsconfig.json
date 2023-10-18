@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "baseUrl": ".",
     "target": "es6",
     "lib": [
       "es6",
@@ -11,6 +12,6 @@
     ]
   },
   "include": [
-    "**/**/*.ts"
+    "**/*.ts"
   ]
 }
