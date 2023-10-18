@@ -2,8 +2,6 @@
   "name": "cypress-testing-template",
   "version": "1.0.0",
   "description": "This is a cypress project.",
-  "private": "true",
-  "type": "module",
   "author": "Sardine",
   "scripts": {
     "cypress:open": "scripts/run.sh open",
