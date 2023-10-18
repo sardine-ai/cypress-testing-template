@@ -10,8 +10,8 @@
     "cypress:run": "scripts/run.sh run"
   },
   "devDependencies": {
-    "cypress": "^9.3.1",
-    "cypress-xpath": "^1.6.2",
-    "typescript": "^4.5.4"
+    "cypress": "^12.17.4",
+    "@testing-library/cypress": "^10.0.1",
+    "typescript": "^5.2.2"
   }
 }
