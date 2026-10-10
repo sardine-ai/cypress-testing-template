@@ -2,7 +2,7 @@ Setup: Please create a new private Github repository based on https://github.com
 
 **Max time: 50min**
 
-**Test**: We want you to implement the following Cypress test with JavaScript or Typescript to validate that we are correctly blocking transactions for non-supported regions in our onramp platform ( https://crypto.dev.sardine.ai/buy)
+**Test**: We want you to implement the following Cypress test with JavaScript or Typescript to validate that we are correctly blocking transactions for non-supported regions in our onramp platform 
 
 As part of your technical test, please create a simple automated test scenario featuring any framework you like and focusing on coding best practices.
 
